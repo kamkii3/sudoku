@@ -34,6 +34,7 @@ class Board extends Component {
 			[true, true, true, true],
 			[true, true, false, false],
 			[true, false, true, false],
+
 			[true, false, false, true],
 		],
 		statusText: '',
